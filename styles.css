@@ -94,7 +94,7 @@ span:nth-child(5) {
   box-shadow: inset 300px 0 0 0 #5900ff;
 }
 
-.negat{
+.enter-site{
   opacity: 0;
   animation: fade-in 1.6s 0.1s forwards cubic-bezier(0.11, 0, 0.5, 0);
   color: rgb(0, 0, 0);
